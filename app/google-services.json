@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "565199633168",
+    "project_id": "ureckon22",
+    "storage_bucket": "ureckon22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565199633168:android:a10a4c68d1a0c6e7cc4395",
+        "android_client_info": {
+          "package_name": "com.sreesubh.ureckon2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565199633168-1ojv47g14bn96spkij2455n4vot2iega.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sreesubh.ureckon2022",
+            "certificate_hash": "03385341eed46f84dfc338f7c732944868777266"
+          }
+        },
+        {
+          "client_id": "565199633168-smifc2ditmeemql4tb89slq583dp6iko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDZpW8H-lIpEAboDuxLRHcFk-nzrij5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565199633168-smifc2ditmeemql4tb89slq583dp6iko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
